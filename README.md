@@ -15,6 +15,7 @@
     https://www.postgresql.org/download/linux/ubuntu/
 
     Install pgadmin4 to work with PostgreSQL GUI:
+    
     https://www.pgadmin.org/download/pgadmin-4-apt/
 
 ## Setup:
@@ -42,9 +43,3 @@
         4. usage_time
         5. upload
         6. download
-    
-    - 
-
-        
-
-# InternetUsageMontinoringService

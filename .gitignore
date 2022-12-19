@@ -1,0 +1,7 @@
+venv-3.10.6/
+.database_dump.txt
+src/__pycache__/
+src/logs/
+src/.env
+
+
